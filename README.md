@@ -1,7 +1,7 @@
 # BackEnd <br>
 #### HealthCare 웹서비스의 백엔드 파트입니다. <br> 
 #### 이 페이지에서는 HealthCare 웹 서비스의 백엔드에서 사용한 기술들과 api들을 명시했습니다. <br> 
-#### 전체적인 작동 방식이나 시연 영상은 https://github.com/Jungsu-lilly/HealthCare 로 가주시면 감사하겠습니다.
+#### 전체적인 작동 방식이나 시연 영상은 https://github.com/Jungsu-lilly/HealthCare 에 있습니댜.
 ---------------------------------
 <br> 
 
@@ -26,10 +26,10 @@
 
 
 # 기능
-### 유저 회원가입.
-### 로그인 & 로그아웃
-### 게시판 작성. 해당 게시판에 댓글 작성 기능
-### 달력에 원하는  날짜를 클릭해 사용자가 운동을 기록하는 기능
+#### 유저 회원가입.
+#### 로그인 & 로그아웃
+#### 게시판 작성. 해당 게시판에 댓글 작성 기능
+#### 달력에 원하는  날짜를 클릭해 사용자가 운동을 기록하는 기능
 <br>
 <br><br>
 
@@ -57,9 +57,8 @@ restful api 명세서는 해당 리포지토리의 wiki 페이지에 있습니�
 
 https://github.com/Jungsu-lilly/HeathCare_BE/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C
 
-<br>
 
 <br><br>
 ## ERD Diagram
-![healthProject (1)](https://user-images.githubusercontent.com/85045177/186178101-06fecd08-eed2-4867-bed4-2d861c06c32d.png) <br>
+<img width="1395" alt="스크린샷 2022-11-22 오후 11 57 45" src="https://user-images.githubusercontent.com/56336436/203346578-13e4d848-9c1c-4e9f-8079-233eac3df1e0.png"> <br>
 #### 테이블은 User, Board, Comment, ExerciseLog 총 네 개입니다.
